@@ -119,11 +119,13 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 - *Advances in Community Ecology and Macroecology*
 - *Frontiers in Ecology*
 
+生物多样性暑期学校的相关材料可以放这里
+
 <span class='anchor' id='-research-projects'></span>
 
 # 🔬 Research Projects
 
-**National Key R&D Program of China Special Project (2024YFF1308101):**
+**National Key R & D Program of China Special Project (2024YFF1308101):**
 *Mechanisms of feedback between restored vegetation species composition/structure and ecological functions* (2024.12-2027.11), **Principal Investigator**
 
 **National Natural Science Foundation of China (NSFC) General Program (32271596):**
@@ -148,7 +150,10 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 
 # 👥 Lab Members
 
+<span style="color: red">We warmly welcome students interested in plant diversity research to apply for Master's, Ph.D. programs, or postdoctoral positions. Undergraduate students are also encouraged to join our research group early. </span>
+
 *Will be added*
+
 
 # 💬 Invited Talks
 - *2025.11*, The 24th Pacific Science Congress, Shantou, China
@@ -156,7 +161,7 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 
 <span class='anchor' id='-academic-appointments'></span>
 
-# 🏛️ Academic Appointments
+# 🏛️ Professional services
 
 **Editorial Board Member:**
 - *Journal of Plant Ecology* (Chinese Edition)
