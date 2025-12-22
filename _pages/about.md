@@ -28,7 +28,10 @@ I am a Professor at the School of Ecological and Environmental Sciences, East Ch
 - *2007-2008*, Joint Ph.D. Training, University of Alberta, Edmonton, Canada
 
 ## 💻 Work Experience
-- *2013-present*, Professor, School of Ecological and Environmental Sciences, East China Normal University, Shanghai, China
+
+- *2021-present*, Professor, School of Ecological and Environmental Sciences, East China Normal University, Shanghai, China
+- *2014-2021*, Associate Professor, School of Ecological and Environmental Sciences, East China Normal University, Shanghai, China
+- *2013-2014*, Lecturer, School of Ecological and Environmental Sciences, East China Normal University, Shanghai, China
 - *2010-2012*, Postdoctoral Fellow, Sun Yat-sen University, Guangzhou, China
 - *2011 Spring*, Visiting Scholar, Aalborg University, Aalborg, Denmark
 - *2011 Summer-Autumn*, Visiting Scholar, Helmholtz Centre for Environmental Research (UFZ), Leipzig, Germany
