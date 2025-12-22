@@ -19,10 +19,6 @@ redirect_from:
 
 I am a Professor at the School of Ecological and Environmental Sciences, East China Normal University. My research focuses on biodiversity change mechanisms under climate change, with a specialization in evergreen broad-leaved forests. I employ quantitative modeling and statistical inference to investigate community patterns and processes, particularly the effects of habitat filtering and interspecific competition on species coexistence and community changes.
 
-I earned my Ph.D. in Ecology from Zhejiang University in 2009, and have strengthened my international research profile through academic appointments at the University of Alberta (Canada), Sun Yat-sen University, the Helmholtz Centre for Environmental Research (UFZ, Germany), and Aalborg University (Denmark).
-
-My research contributions include spatial point pattern analysis for quantifying ecological processes, estimation of intraspecific trait variation, and distance-based population size modeling. These advances are complemented by extensive experimental work, including seedling manipulation experiments and long-term field monitoring.
-
 ## 🎖 Honors and Awards
 - *2024.10* National Outstanding Doctoral Dissertation Award in Ecology (Supervisor)
 
