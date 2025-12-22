@@ -124,6 +124,9 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 
 # 🔬 Research Projects
 
+**National Key R&D Program of China Special Project (2024YFF1308101):**
+*Mechanisms of feedback between restored vegetation species composition/structure and ecological functions* (2024.12-2027.11), **Principal Investigator**
+
 **National Natural Science Foundation of China (NSFC) General Program (32271596):**
 *Testing the effects of variable functional traits on habitat filtering and competition* (2023.01-2026.12), **Principal Investigator**
 
@@ -142,12 +145,15 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 **National Natural Science Foundation of China (NSFC) Youth Program (31100309):**
 *Effects of similarity limitation and habitat filtering on seedling spatial patterns* (2012.01-2014.12), **Principal Investigator**
 
-# 💬 Invited Talks
-- *2023.06*, International Conference on Forest Ecology, Kyoto, Japan
-- *2022.11*, Symposium on Community Ecology, University of Alberta, Canada
-- *2021.09*, Chinese Ecological Society Annual Meeting, Beijing, China
-- *2020.07*, Helmholtz Centre for Environmental Research Seminar, Leipzig, Germany
+<span class='anchor' id='-lab-members'></span>
 
+# 👥 Lab Members
+
+*Will be added*
+
+# 💬 Invited Talks
+- *2025.11*, The 24th Pacific Science Congress, Shantou, China
+- *Will be added*
 
 <span class='anchor' id='-academic-appointments'></span>
 
