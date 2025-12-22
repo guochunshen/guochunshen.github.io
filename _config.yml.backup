@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shen Lab - Ecology Research Group"
-description              : "A research group at East China Normal University focusing on biodiversity mechanisms under climate change and evergreen broad-leaved forest ecology."
+title                    : "Guochun Shen"
+description              : "Focusing on biodiversity mechanisms under climate change, specializing in evergreen broad-leaved forest ecology."
 repository               : "guochunshen/guochunshen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,12 +19,11 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Site Author (Research Group Principal Investigator)
+# Site Author
 author:
-  name             : "PI: Guochun Shen"
-  role             : "Principal Investigator"
+  name             : "Guochun Shen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shen Lab, East China Normal University"
+  bio              : "East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
