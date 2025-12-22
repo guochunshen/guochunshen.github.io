@@ -23,12 +23,28 @@ I earned my Ph.D. in Ecology from Zhejiang University in 2009, and have strength
 
 My research contributions include spatial point pattern analysis for quantifying ecological processes, estimation of intraspecific trait variation, and distance-based population size modeling. These advances are complemented by extensive experimental work, including seedling manipulation experiments and long-term field monitoring.
 
+## 🎖 Honors and Awards
+- *2024.10* National Outstanding Doctoral Dissertation Award in Ecology (Supervisor)
+
+## 📖 Educations
+- *2001-2005*, B.S. in Life Sciences, Ningbo University, Ningbo, China
+- *2005-2009*, Ph.D. in Life Sciences, Zhejiang University, Hangzhou, China (Direct Ph.D. Program)
+- *2007-2008*, Joint Ph.D. Training, University of Alberta, Edmonton, Canada
+
+## 💻 Work Experience
+- *2013-present*, Professor, School of Ecological and Environmental Sciences, East China Normal University, Shanghai, China
+- *2010-2012*, Postdoctoral Fellow, Sun Yat-sen University, Guangzhou, China
+- *2011 Spring*, Visiting Scholar, Aalborg University, Aalborg, Denmark
+- *2011 Summer-Autumn*, Visiting Scholar, Helmholtz Centre for Environmental Research (UFZ), Leipzig, Germany
+
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 New paper published in *Ecology Letters* on intraspecific trait variation in subtropical forests.
-- *2025.9*: &nbsp;🎉🎉 New paper published in *Journal of Plant Ecology* on forst structural complexity in subtropical forest.
+- *2025.11*: &nbsp;🎉🎉 [New paper published in *Ecology Letters* on intraspecific trait variation in subtropical forests.](#ecology-letters-2025)
+- *2025.9*: &nbsp;🎉🎉 [New paper published in *Journal of Plant Ecology* on forst structural complexity in subtropical forest.](#journal-of-plant-ecology-2025)
 - *2025.8*: &nbsp;🎉🎉 "Ecological Statistics" awarded as Shanghai Key Construction Course.
 
 # 📝 Publications
+
+<span id='ecology-letters-2025'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecology Letters 2025</div><img src='images/Yang_EL_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +59,8 @@ J. Yang, **G. Shen**✉️, X. Wang, & C. P. Carmona. [[PDF]](pdfs/publications/
 - [Latitudinal scaling of aggregation with abundance and coexistence in forests](https://www.nature.com/articles/s41586-024-08166-6), T. Wiegand, X. Wang, S. M. Fischer, N. J. B. Kraft, N. A. Bourg, W. Y. Brockelman, G. Cao, M. Cao, W. Chanthorn, C. Chu, S. Davies, S. Ediriweera, C. V. S. Gunatilleke, I. A. U. N. Gunatilleke, Z. Hao, R. Howe, M. Jiang, G. Jin, W. J. Kress, B. Li, J. Lian, L. Lin, F. Liu, K. Ma, W. McShea, X. Mi, J. A. Myers, A. Nathalang, D. A. Orwig, **G. Shen**, S.-H. Su, I.-F. Sun, X. Wang, A. Wolf, E. Yan, W. Ye, Y. Zhu, and A. Huth, **Nature 2025**
 - [Bias in Discontinuous Elevational Transects for Tracking Species Range Shifts](https://doi.org/10.3390/plants14020283), S. Li, J. Yao, Y. Lin, S. Wu, Z. Yang, C. Jin, Y. Zhang, Z. Wang, J. Liu, **G. Shen**✉️, and M. Yu, **Plants 2025** [[PDF]](pdfs/publications/Li_Yao_et_al_2025_Bias_Discontinuous_Elevational_Transects.pdf)
 
+
+<span id='journal-of-plant-ecology-2025'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Of Plant Ecology 2025</div><img src='images/JPE2025fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,13 +102,45 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 - [Quantifying spatial phylogenetic structures of fully stem-mapped plant communities](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12122), **G. Shen**, T. Wiegand, X. Mi & F. He, **Methods in Ecology and Evolution 2013**
 - [Species-area relationships explained by the joint effects of dispersal limitation and habitat heterogeneity](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/08-2356.1), **G. Shen**, M. Yu, X. Hu, X. Mi, H. Ren, I. Sun & K. Ma, **Ecology 2009**
 
-# 🎖 Honors and Awards
-- *2024.10* National Outstanding Doctoral Dissertation Award in Ecology (Supervisor)
+<span class='anchor' id='-teaching'></span>
 
+# 🎓 Teaching
 
-# 📖 Educations
-- *2005.09 - 2010.06*, Ph.D. in Ecology, Zhejiang University, Hangzhou, China
-- *2001.09 - 2005.06*, M.S. in Biology, Ningbo University, Hangzhou, China
+**Undergraduate Courses:**
+- *Fundamentals of Ecology*
+- *Natural Field Observation*
+- *Nature Cognition and Ecological Analysis*
+- *Ecological Statistics* ([Online Textbook](https://guochunshen.github.io/ecological-statistics/))
+
+**Graduate Courses:**
+- *Fundamentals of Ecological Statistics* ([Online Textbook](https://guochunshen.github.io/ecological-statistics/))
+- *Spatial Statistics*
+
+**Participated Courses:**
+- *Advances in Community Ecology and Macroecology*
+- *Frontiers in Ecology*
+
+<span class='anchor' id='-research-projects'></span>
+
+# 🔬 Research Projects
+
+**National Natural Science Foundation of China (NSFC) General Program (32271596):**
+*Testing the effects of variable functional traits on habitat filtering and competition* (2023.01-2026.12), **Principal Investigator**
+
+**Shanghai Natural Science Foundation General Program (23ZR1419200):**
+*Enhancing biodiversity and carbon sink systems through forest vertical structure regulation* (2023.04-2026.03), **Principal Investigator**
+
+**National Natural Science Foundation of China (NSFC) General Program (31870404):**
+*Testing the predictive power of phylogenetic distance for interspecific ecological differences and community structure dynamics* (2019.01-2022.12), **Principal Investigator**
+
+**National Natural Science Foundation of China (NSFC) General Program (31470487):**
+*Effects of interspecific niche differences and resource tolerance differences on species coexistence* (2015.01-2018.12), **Principal Investigator**
+
+**National Key R&D Program of China Sub-project (2016YFC0503100):**
+*Research and demonstration of conservation technologies for germplasm resources of extremely small population wild plants* (2016.07-2020.12), **Key Participant**
+
+**National Natural Science Foundation of China (NSFC) Youth Program (31100309):**
+*Effects of similarity limitation and habitat filtering on seedling spatial patterns* (2012.01-2014.12), **Principal Investigator**
 
 # 💬 Invited Talks
 - *2023.06*, International Conference on Forest Ecology, Kyoto, Japan
@@ -98,10 +148,17 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 - *2021.09*, Chinese Ecological Society Annual Meeting, Beijing, China
 - *2020.07*, Helmholtz Centre for Environmental Research Seminar, Leipzig, Germany
 
-# 💻 Academic Appointments
-- *2020-present*, Professor, School of Ecological and Environmental Sciences, East China Normal University
-- *2014-2022*, Associate Professor, School of Ecological and Environmental Sciences, East China Normal University
-- *2013-2014*, lecturer, School of Ecological and Environmental Sciences, East China Normal University
-- *2010-2010*, Visiting Professor, Aalborg University, Denmark
-- *2011-2011*, Research Scientist, Helmholtz Centre for Environmental Research (UFZ), Germany
-- *2012-2013*, Postdoctoral Fellow, Sun Yat-sen University, China
+
+<span class='anchor' id='-academic-appointments'></span>
+
+# 🏛️ Academic Appointments
+
+**Editorial Board Member:**
+- *Journal of Plant Ecology* (Chinese Edition)
+
+**Journal Reviewer for:**
+- *Biodiversity Science*, *Journal of Plant Ecology*, *Chinese Journal of Ecology*, *Chinese Journal of Applied Ecology*, *Science China*
+- *Ecology Letters*, *Methods in Ecology and Evolution*, *Communications Biology*, *Journal of Ecology*, *Perspectives in Plant Ecology, Evolution and Systematics*
+- *Forest Ecology and Management*, *Landscape Ecology*, *Chinese Science Bulletin*, *Journal of Vegetation Science*, *Journal of Plant Ecology*
+- *Oikos*, *PLOS ONE*, *Acta Oecologica*, *Ecology and Evolution*, *Plant Biology*, *Community Ecology*
+- *Scandinavian Journal of Forest Research*, *Scientific Reports*, *AoB Plants*, *Folia Geobotanica*
