@@ -23,13 +23,13 @@ Welcome to the Biodiversity Research Lab at East China Normal University. Our re
 
 Our group combines field observations, experimental studies, and statistical modeling to address fundamental questions in ecology. We work across multiple scales from individual traits to community dynamics, with a strong emphasis on quantitative methods and data-driven approaches.
 
-## Research Directions
+## 🧭 Research Directions
 
 1. **Biodiversity change mechanisms under climate change**
 2. **Community assembly and species coexistence**
 3. **Spatial ecology and statistical modeling**
 
-### Join Our Team
+## 🤝 Join Our Team
 <span style="color: red">We are always looking for highly motivated students and researchers to join our group.</span> If you are interested in: Biodiversity and community ecology, Forest ecology and conservation, Statistical modeling in ecology, Climate change impacts on ecosystems
 
 Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.ecnu.edu.cn) with your CV and research interests.
@@ -113,13 +113,16 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/
 - **Ecological Statistics** - [Online Textbook](https://guochunshen.github.io/ecological-statistics/)
   A comprehensive online textbook covering fundamental and advanced statistical methods in ecology, including data analysis, modeling, and interpretation techniques specifically tailored for ecological research.
 
+- **Introduction to Environmental Damage Forensic Identification** (Chinese translation of selected chapters)
+  Contributed to the translation of several chapters for this textbook on environmental damage forensic identification, focusing on ecological assessment methodologies and legal frameworks.
+
 <span class='anchor' id='-research-projects'></span>
 
 # 🔬 Research Projects
 
 Our research group is actively involved in multiple funded projects addressing key questions in ecology and biodiversity conservation. Current projects include:
 
-**National Key R & D Program of China Special Project (2024YFF1308101):**
+**National Key R&D Program of China Special Project (2024YFF1308101):**
 *Mechanisms of feedback between restored vegetation species composition/structure and ecological functions* (2024.12-2027.11), **Principal Investigator**
 
 **National Natural Science Foundation of China (NSFC) General Program (32271596):**
