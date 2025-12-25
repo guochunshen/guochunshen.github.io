@@ -147,13 +147,19 @@ Our research group is actively involved in multiple funded projects addressing k
 
 # 👥 Team Members
 
-## Principal Investigator
+## Current members
 
-**Prof. Guochun Shen** is a Professor at the School of Ecological and Environmental Sciences, East China Normal University. His research focuses on biodiversity mechanisms under climate change, specializing in evergreen broad-leaved forest ecology. He employs quantitative modeling and statistical inference to investigate community patterns and processes.
+{% include team-members.html %}
+
+<span class="anchor" id="principal-investigator"></span>
+## More About Principal Investigator
+
+**Guochun Shen**, a Professor at the School of Ecological and Environmental Sciences, East China Normal University. His research focuses on biodiversity mechanisms under climate change, specializing in evergreen broad-leaved forest ecology. He employs quantitative modeling and statistical inference to investigate community patterns and processes.
 
 ### 🎖 Honors and Awards
 - *2024.10* National Outstanding Doctoral Dissertation Award in Ecology (Supervisor)
-
+- *Will be added*
+- 
 ### 📖 Educations
 - *2001-2005*, B.S. in Life Sciences, Ningbo University, Ningbo, China
 - *2005-2009*, Ph.D. in Life Sciences, Zhejiang University, Hangzhou, China (Direct Ph.D. Program)
@@ -185,19 +191,9 @@ Our research group is actively involved in multiple funded projects addressing k
 - *Scandinavian Journal of Forest Research*, *Scientific Reports*, *AoB Plants*, *Folia Geobotanica*
 
 
-## Postdoctoral Researchers
-*Currently recruiting*
-
-## PhD Students
-*To be added*
-
-## Master Students
-*To be added*
-
-## Undergraduate Students
-*To be added*
 
 ## Alumni
-*To be added*
+
+{% include alumni-table.html %}
 
 ---

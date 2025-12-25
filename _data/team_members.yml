@@ -1,0 +1,86 @@
+# Team Members Data File
+# Usage:
+# 1. Place member photos in /images/team/ directory
+# 2. Add member information following the format below
+# 3. Use {% include team-members.html %} in HTML templates
+
+- name: "Chao Jin (金超)"
+  degree: "Phd Candidate"
+  enrollment_date: "202209"
+  graduation_date: "202606"
+  research_direction: "Forest structural complexity and species diversity"
+  photo: "/images/team/chao jin 300.png"
+  # Replace with actual photo filename
+
+- name: "Siyu Wu (伍斯宇)"
+  degree: "Phd Candidate"
+  enrollment_date: "202309"
+  graduation_date: "202606"
+  research_direction: "Light competition and species diversity"
+  photo: "/images/team/sywu 300.png"
+  # Replace with actual photo filename
+
+- name: "Nan Jin (金楠)"
+  degree: "Phd Candidate"
+  enrollment_date: "202409"
+  graduation_date: "202806"
+  research_direction: "Functional traits and elevational gradient"
+  photo: "/images/team/Nanjin 300.jpg"
+  # Replace with actual photo filename
+
+- name: "Jia Yao (姚嘉)"
+  degree: "MSc Candidate"
+  enrollment_date: "202309"
+  graduation_date: "202606"
+  research_direction: "Trait plasticity and species coexistence"
+  photo: "/images/team/jiayao 300.jpg"
+  # Replace with actual photo filename
+
+- name: "Jiqing Zheng (郑济卿)"
+  degree: "MSc Candidate"
+  enrollment_date: "202309"
+  graduation_date: "202606"
+  research_direction: "Spatial point pattern and niche differentation"
+  photo: "/images/team/jiqing 300.jpg"
+  # Replace with actual photo filename
+
+- name: "Liu Yang (杨柳)"
+  degree: "MSc Candidate"
+  enrollment_date: "202409"
+  graduation_date: "202706"
+  research_direction: "Species coexistence under global climate change"
+  photo: "/images/team/yangliu 300.jpg"
+  # Replace with actual photo filename
+
+- name: "Hengyi Zhu (朱恒一)"
+  degree: "MSc Candidate"
+  enrollment_date: "202409"
+  graduation_date: "202706"
+  research_direction: "Forest 3D structure and niche differentation"
+  photo: "/images/team/hengyi 300.jpg"
+  # Replace with actual photo filename
+
+- name: "Jinbo Huang (黄津菠)"
+  degree: "MSc Candidate"
+  enrollment_date: "202509"
+  graduation_date: "202606"
+  research_direction: "Functional traits and plant interaction"
+  photo: "/images/team/jinbo 300.png"
+  # Replace with actual photo filename
+
+- name: "Shuaishuai Sun (孙帅帅)"
+  degree: "MSc Candidate"
+  enrollment_date: "202509"
+  graduation_date: "202806"
+  research_direction: "Lagency effect of dead large trees"
+  photo: "/images/team/shuaishuai 300.jpg"
+  # Replace with actual photo filename
+  
+
+# Add more member information:
+# - name: "Member Name"
+#   degree: "Degree Type (PhD Candidate/Master Student)"
+#   enrollment_date: "Enrollment Date"
+#   graduation_date: "Expected Graduation Date"
+#   research_direction: "Research Direction"
+#   photo: "/images/team/photo_filename.jpg"

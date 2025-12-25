@@ -1,0 +1,154 @@
+<!-- 组内成员介绍模板 -->
+<!-- 使用方法：使用_data/team_members.yml文件，使用Liquid循环 -->
+
+{% if site.data.team_members %}
+<div class="team-members-container">
+  <div class="team-members-grid">
+    {% for member in site.data.team_members %}
+    <div class="team-member-card">
+      <div class="team-member-photo">
+        <img src="{{ member.photo }}" alt="{{ member.name }}" width="150" height="150">
+      </div>
+      <div class="team-member-info">
+        <h3 class="team-member-name">{{ member.name }}</h3>
+        <p class="team-member-degree">{{ member.degree }}</p>
+        <p class="team-member-enrollment">Enrollment: {{ member.enrollment_date }}</p>
+        <p class="team-member-graduation">Exp. Graduation: {{ member.graduation_date }}</p>
+        <p class="team-member-research">Research: {{ member.research_direction }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% else %}
+<div class="team-members-container">
+  <div class="team-members-grid">
+    <div class="team-member-card">
+      <div class="team-member-photo">
+        <img src="/images/team/photo1.jpg" alt="Team Member" width="150" height="150">
+      </div>
+      <div class="team-member-info">
+        <h3 class="team-member-name">Add Team Members</h3>
+        <p class="team-member-degree">Edit _data/team_members.yml file</p>
+        <p class="team-member-enrollment">Enrollment: YYYY-MM</p>
+        <p class="team-member-graduation">Exp. Graduation: YYYY-MM</p>
+        <p class="team-member-research">Research: Add research direction here</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<style>
+.team-members-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.team-members-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 25px;
+  justify-content: center;
+}
+
+.team-member-card {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.team-member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.team-member-photo {
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.team-member-photo img {
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.team-member-info {
+  text-align: left;
+  flex: 1;
+}
+
+.team-member-name {
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+  font-size: 1.4em;
+}
+
+.team-member-degree {
+  margin: 0 0 8px 0;
+  color: #3498db;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+.team-member-enrollment {
+  margin: 0 0 4px 0;
+  color: #7f8c8d;
+  font-size: 0.95em;
+}
+
+.team-member-graduation {
+  margin: 0 0 8px 0;
+  color: #7f8c8d;
+  font-size: 0.95em;
+}
+
+.team-member-research {
+  margin: 0;
+  color: #34495e;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+/* 响应式设计 */
+@media (max-width: 900px) {
+  .team-members-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .team-member-card {
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .team-member-photo {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .team-member-photo img {
+    width: 125px;
+    height: 125px;
+  }
+
+  .team-member-info {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .team-member-photo img {
+    width: 100px;
+    height: 100px;
+  }
+}
+</style>

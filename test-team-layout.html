@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>组内成员布局测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .test-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+        }
+
+        .layout-info {
+            background: #e8f4fc;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            border-left: 4px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Team Members Layout Test</h1>
+
+        <div class="layout-info">
+            <p><strong>Layout Description:</strong></p>
+            <ul>
+                <li>Desktop: 2 members per row</li>
+                <li>Tablet/Mobile: 1 member per row</li>
+                <li>Each member card includes: 150×150 pixel photo, name, degree, dates, research direction</li>
+                <li>Responsive design for different screen sizes</li>
+            </ul>
+        </div>
+
+        <!-- 引入团队成员模板 -->
+        {% include team-members.html %}
+
+        <div class="layout-info" style="margin-top: 30px;">
+            <p><strong>Test Instructions:</strong></p>
+            <ul>
+                <li>Resize browser window to see responsive effects</li>
+                <li>Desktop width > 768px: 2 members per row</li>
+                <li>Mobile width ≤ 768px: 1 member per row</li>
+                <li>Hover over member cards to see animation effects</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
