@@ -23,11 +23,17 @@ Welcome to the Biodiversity Research Lab at East China Normal University. Our re
 
 Our group combines field observations, experimental studies, and statistical modeling to address fundamental questions in ecology. We work across multiple scales from individual traits to community dynamics, with a strong emphasis on quantitative methods and data-driven approaches.
 
+
+
 ## 🧭 Research Directions
 
-1. **Biodiversity change mechanisms under climate change**
-2. **Community assembly and species coexistence**
-3. **Spatial ecology and statistical modeling**
+Based on the Tiantong Field Observation Center, the 20-hectare forest dynamics monitoring plot, and the Tiantong seedling control experiment platform, we conduct research on forest community assembly mechanisms, species diversity maintenance mechanisms, and biodiversity monitoring. Current main research directions include:
+
+1. **Forest community diversity monitoring and conservation**: Using near-surface remote sensing and other methods to monitor spatiotemporal patterns of plant diversity in forest communities, predict changes in plant diversity under climate change, and explore conservation measures for rare and endangered plants.
+
+2. **Forest community structure and function**: Based on long-term tree census data, we study the effects of forest species composition, three-dimensional structure, and functional traits on forest ecosystem functions, and explore pathways for synergistic enhancement of forest plant diversity and ecosystem functions.
+
+3. **Plant functional traits and species coexistence**: Using woody plant seedling control experiments, we examine the relationships between intraspecific and interspecific differences in plant functional traits and species competition and environmental preferences, investigating modern species coexistence theories based on functional traits.
 
 ## 🤝 Join Our Team
 <span style="color: red">We are always looking for highly motivated students and researchers to join our group.</span> If you are interested in: Biodiversity and community ecology, Forest ecology and conservation, Statistical modeling in ecology, Climate change impacts on ecosystems
