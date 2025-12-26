@@ -57,12 +57,12 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 
 [Competition-Induced Trait Variability Obscures Trait–Growth Relationships of Tree Seedlings](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70259)
 
-J. Yang, **G. Shen**✉️, X. Wang, & C. P. Carmona. [[PDF]](pdfs/publications/Yang_et_al_2025_Competition-Induced.pdf)
+J. Yang, **G. Shen**✉️, X. Wang, & C. P. Carmona. **Ecology Letters 2025** [[PDF]](pdfs/publications/Yang_et_al_2025_Competition-Induced.pdf)
 
 </div>
 </div>
 
-- [Latitudinal scaling of aggregation with abundance and coexistence in forests](https://www.nature.com/articles/s41586-024-08166-6), T. Wiegand, X. Wang, S. M. Fischer, N. J. B. Kraft, N. A. Bourg, W. Y. Brockelman, G. Cao, M. Cao, W. Chanthorn, C. Chu, S. Davies, S. Ediriweera, C. V. S. Gunatilleke, I. A. U. N. Gunatilleke, Z. Hao, R. Howe, M. Jiang, G. Jin, W. J. Kress, B. Li, J. Lian, L. Lin, F. Liu, K. Ma, W. McShea, X. Mi, J. A. Myers, A. Nathalang, D. A. Orwig, **G. Shen**, S.-H. Su, I.-F. Sun, X. Wang, A. Wolf, E. Yan, W. Ye, Y. Zhu, and A. Huth, **Nature 2025**
+- [Latitudinal scaling of aggregation with abundance and coexistence in forests](https://www.nature.com/articles/s41586-024-08166-6), T. Wiegand, X. Wang, S. M. Fischer, N. J. B. Kraft, N. A. Bourg, W. Y. Brockelman, G. Cao, M. Cao, W. Chanthorn, C. Chu, S. Davies, S. Ediriweera, C. V. S. Gunatilleke, I. A. U. N. Gunatilleke, Z. Hao, R. Howe, M. Jiang, G. Jin, W. J. Kress, B. Li, J. Lian, L. Lin, F. Liu, K. Ma, W. McShea, X. Mi, J. A. Myers, A. Nathalang, D. A. Orwig, **G. Shen**, S.-H. Su, I.-F. Sun, X. Wang, A. Wolf, E. Yan, W. Ye, Y. Zhu, and A. Huth, **Nature 2025** [[PDF]](pdfs/publications/Wiegand, Wang et al. 2025 - Latitudinal scaling of aggregation.pdf)
 - [Bias in Discontinuous Elevational Transects for Tracking Species Range Shifts](https://doi.org/10.3390/plants14020283), S. Li, J. Yao, Y. Lin, S. Wu, Z. Yang, C. Jin, Y. Zhang, Z. Wang, J. Liu, **G. Shen**✉️, and M. Yu, **Plants 2025** [[PDF]](pdfs/publications/Li_Yao_et_al_2025_Bias_Discontinuous_Elevational_Transects.pdf)
 
 
@@ -73,7 +73,7 @@ J. Yang, **G. Shen**✉️, X. Wang, & C. P. Carmona. [[PDF]](pdfs/publications/
 
 [Canopy height and stand density mask nature's inherent synergy between forest structural complexity and diversity](https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtaf152/8252023)
 
-C. Jin, J. Yang, S. Wu, Q. Yu, X. Wang, & **G. Shen**✉️. [[PDF]](pdfs/publications/Jin_2025_Canopy_height_stand_density_mask_synergy.pdf)
+C. Jin, J. Yang, S. Wu, Q. Yu, X. Wang, & **G. Shen**✉️. **Journal of Plant Ecology 2025** [[PDF]](pdfs/publications/Jin_2025_Canopy_height_stand_density_mask_synergy.pdf)
 
 </div>
 </div>
@@ -85,15 +85,15 @@ C. Jin, J. Yang, S. Wu, Q. Yu, X. Wang, & **G. Shen**✉️. [[PDF]](pdfs/public
 
 [Inverse relationship between species competitiveness and intraspecific trait variability may enable species coexistence in experimental seedling communities](https://www.nature.com/articles/s41467-024-47295-4)
 
-J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. [[PDF]](pdfs/publications/Yang_2024_inverse.pdf)
+J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. **Nature Communications 2024** [[PDF]](pdfs/publications/Yang_2024_inverse.pdf)
 
 </div>
 </div>
 
 
-- [Topography and structural diversity regulate ecosystem multifunctionality in a subtropical evergreen broad-leaved forest](https://www.frontiersin.org/articles/10.3389/ffgc.2023.1309660/full), J. Wang, H. Liu, Q. Yang, **G. Shen**, X. Zhu, Y. Xu, and X. Wang, **Frontiers in Forests and Global Change 2023**
+- [Topography and structural diversity regulate ecosystem multifunctionality in a subtropical evergreen broad-leaved forest](https://www.frontiersin.org/articles/10.3389/ffgc.2023.1309660/full), J. Wang, H. Liu, Q. Yang, **G. Shen**, X. Zhu, Y. Xu, and X. Wang, **Frontiers in Forests and Global Change 2023** [[PDF]](pdfs/publications/Wang, Liu et al. 2023 - Topography and structural diversity regulate.pdf)
 - [Drone-acquired data reveal the importance of forest canopy structure in predicting tree diversity](https://www.sciencedirect.com/science/article/abs/pii/S0378112721007286), J. Zhang, Z. Zhang, J. A. Lutz, C. Chu, J. Hu, **G. Shen**, B. Li, Q. Yang, J. Lian, M. Zhang, X. Wang, W. Ye, and F. He, **Forest Ecology and Management 2022**
-- [Importance and benefit of incorporating the responses of species mean trait values in trait-based community assembly](https://www.sciencedirect.com/science/article/abs/pii/S1470160X21005561), J. Yang, J. Lu, R. Wang, X. Wang, S. Li, and **G. Shen**✉️, **Ecological Indicators 2021**
+- [Importance and benefit of incorporating the responses of species mean trait values in trait-based community assembly](https://www.sciencedirect.com/science/article/abs/pii/S1470160X21005561), J. Yang, J. Lu, R. Wang, X. Wang, S. Li, and **G. Shen**✉️, **Ecological Indicators 2021** [[PDF]](pdfs/publications/Importance and benefit of incorporating the responses of species mean trait.pdf)
 - [Species packing and the latitudinal gradient in beta-diversity](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0293), K. Cao, R. Condit, X. Mi, L. Chen, H. Ren, W. Xu, D. F. R. P. Burslem, C. Cai, M. Cao, L.-W. Chang, C. Chu, F. Cui, H. Du, S. Ediriweera, C. S. V. Gunatilleke, I. U. A. N. Gunatilleke, Z. Hao, G. Jin, J. Li, B. Li, Y. Li, Y. Liu, H. Ni, M. J. O'Brien, X. Qiao, **G. Shen**, S. Tian, X. Wang, H. Xu, Y. Xu, L. Yang, S. L. Yap, J. Lian, W. Ye, M. Yu, S.-H. Su, C.-H. Chang-Yang, Y. Guo, X. Li, F. Zeng, D. Zhu, L. Zhu, I.-F. Sun, K. Ma, & J.-C. Svenning, **Proceedings of the Royal Society Biological sciences 2021**
 - [Characterizing spatiotemporal variations of forest canopy gaps using aerial laser scanning data](https://www.sciencedirect.com/science/article/abs/pii/S0303243421002419), Z. Du, G. Zheng, **G. Shen**✉️, & L. M. Moskal, **International Journal of Applied Earth Observation and Geoinformation 2021**
 - [The U‐shaped pattern of size‐dependent mortality and its correlated factors in a subtropical monsoon evergreen forest](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13669), R. Lu, Y. Qiao, J. Wang, C. Zhu, E. Cui, X. Xu, Y. He, Z. Zhao, Y. Du, L. Yan, **G. Shen**, Q. Yang, X. Wang, & J. Xia, **Journal of Ecology 2021**

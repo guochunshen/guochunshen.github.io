@@ -5,7 +5,7 @@
 # 3. Use {% include team-members.html %} in HTML templates
 
 - name: "Chao Jin (金超)"
-  degree: "Phd Candidate"
+  degree: "PhD Candidate"
   enrollment_date: "202209"
   graduation_date: "202606"
   research_direction: "Forest structural complexity and species diversity"
@@ -13,7 +13,7 @@
   # Replace with actual photo filename
 
 - name: "Siyu Wu (伍斯宇)"
-  degree: "Phd Candidate"
+  degree: "PhD Candidate"
   enrollment_date: "202309"
   graduation_date: "202606"
   research_direction: "Light competition and species diversity"
@@ -21,7 +21,7 @@
   # Replace with actual photo filename
 
 - name: "Nan Jin (金楠)"
-  degree: "Phd Candidate"
+  degree: "PhD Candidate"
   enrollment_date: "202409"
   graduation_date: "202806"
   research_direction: "Functional traits and elevational gradient"
