@@ -43,6 +43,8 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 <span class='anchor' id='-news'></span>
 
 # 🔥 News & Updates
+- *2026.01*: &nbsp;🎉🎉 [New paper published in *ISPRS Journal of Photogrammetry and Remote Sensing* on tree delineation.](#JPRS-2026)
+- *2026.01*：&nbsp;🌿 **Field season** - Team members conducted winter fieldwork in subtropical forests.
 - *2025.11*: &nbsp;🎉🎉 [New paper published in *Ecology Letters* on intraspecific trait variation in subtropical forests.](#ecology-letters-2025)
 - *2025.10*: &nbsp;👥 **New team member** - Welcome to our new PhD (Nan Jin) and Master (Shuaishuai Sun, Jinbo Huang) students joining the lab!
 - *2025.9*: &nbsp;🎉🎉 [New paper published in *Journal of Plant Ecology* on forest structural complexity in subtropical forest.](#journal-of-plant-ecology-2025)
@@ -55,6 +57,10 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 # 📝 Publications
 
 ## 📄 Journal Articles
+
+<span id='JPRS-2026'></span>
+
+- [Empowering tree-scale monitoring over large areas: Individual tree delineation from high-resolution imagery](https://doi.org/10.1016/j.isprsjprs.2025.12.022), X. Liang, Y. Wang, J. Pan, J. Heiskanen, N. Wang, S. Wu, I. Vuorinne, J. Tian, J. Troles, M. Cloutier, S. Puliti, A. Chandrasekaran, J. Ball, X. Mi, **G. Shen**, K. Song, G. Shao, R. Astrup, Y. Wang, P. Pellikka, M. Wang, and J. Gong, **ISPRS Journal of Photogrammetry and Remote Sensing 2026** [[PDF]](pdfs/publications/liang_et_al. 2026_empowering.pdf)
 
 <span id='ecology-letters-2025'></span>
 
