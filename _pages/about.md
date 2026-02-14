@@ -43,6 +43,7 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 <span class='anchor' id='-news'></span>
 
 # 🔥 News & Updates
+- *2026.02*: &nbsp;🎉🎉 Huge congratulations to our former group member Dr. Jing Yang (Ph.D. 2016–2022; Postdoc 2022–2024) for being awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) with a remarkable score of 97.8/100. We wish her the very best for her project “IntraDivS” at the Spanish National Research Council (CSIC).
 - *2026.01*: &nbsp;🎉🎉 [New paper published in *ISPRS Journal of Photogrammetry and Remote Sensing* on tree delineation.](#JPRS-2026)
 - *2026.01*：&nbsp;🌿 **Field season** - Team members conducted winter fieldwork in subtropical forests.
 - *2025.11*: &nbsp;🎉🎉 [New paper published in *Ecology Letters* on intraspecific trait variation in subtropical forests.](#ecology-letters-2025)
