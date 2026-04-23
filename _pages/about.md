@@ -43,6 +43,7 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 <span class='anchor' id='-news'></span>
 
 # 🔥 News & Updates
+- *2026.4*: &nbsp;🎉🎉 [New paper published in *Journal of Ecology* on above- and below-ground trait shifts.](#journal-of-ecology-2026)
 - *2026.02*: &nbsp;🎉🎉 Huge congratulations to our former group member Dr. Jing Yang (Ph.D. 2016–2022; Postdoc 2022–2024) for being awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) with a remarkable score of 97.8/100. We wish her the very best for her project “IntraDivS” at the Spanish National Research Council (CSIC).
 - *2026.01*: &nbsp;🎉🎉 [New paper published in *ISPRS Journal of Photogrammetry and Remote Sensing* on tree delineation.](#JPRS-2026)
 - *2026.01*：&nbsp;🌿 **Field season** - Team members conducted winter fieldwork in subtropical forests.
@@ -50,7 +51,6 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 - *2025.10*: &nbsp;👥 **New team member** - Welcome to our new PhD (Nan Jin) and Master (Shuaishuai Sun, Jinbo Huang) students joining the lab!
 - *2025.9*: &nbsp;🎉🎉 [New paper published in *Journal of Plant Ecology* on forest structural complexity in subtropical forest.](#journal-of-plant-ecology-2025)
 - *2025.8*: &nbsp;🎉🎉 "Ecological Statistics" course awarded as Shanghai Key Construction Course.
-- *2025.7-9*: &nbsp;🌿 **Field season** - Team members conducted summer fieldwork in subtropical forests.
 
 
 <span class='anchor' id='-publications'></span>
@@ -58,6 +58,20 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 # 📝 Publications
 
 ## 📄 Journal Articles
+
+
+<span id='journal-of-ecology-2026'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Ecology 2026</div><img src='images/Yang_JE_fig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Shifts in above- and below-ground trait dissimilarity under competition mediate the future impact of neighbours](https://doi.org/10.1111/1365-2745.70320)
+
+J. Yang, **G. Shen**✉️, S. Lyu, J. A. Bennett, E. Tordoni, S. Wu, X. Wang, & C. P. Carmona. **Journal of Ecology 2026** [[PDF]](pdfs/publications/Yang_et_al_2026-Shifts.pdf)
+
+</div>
+</div>
+
 
 <span id='JPRS-2026'></span>
 
