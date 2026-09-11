@@ -43,6 +43,8 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 <span class='anchor' id='-news'></span>
 
 # 🔥 News & Updates
+- *2026.9*: &nbsp;🎉🎉 [New paper published in *Annals of Botany* on above- and below-ground intraspecific trait variation.](#annals-of-botany-2026)
+- *2026.9*: &nbsp;🎉 **New grant** - NSFC General Program (32672046) funded: *Testing the Context-dependent Mechanisms of Variable Functional Traits on Species Coexistence*.
 - *2026.4*: &nbsp;🎉🎉 [New paper published in *Journal of Ecology* on above- and below-ground trait shifts.](#journal-of-ecology-2026)
 - *2026.02*: &nbsp;🎉🎉 Huge congratulations to our former group member Dr. Jing Yang (Ph.D. 2016–2022; Postdoc 2022–2024) for being awarded a Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF) with a remarkable score of 97.8/100. We wish her the very best for her project “IntraDivS” at the Spanish National Research Council (CSIC).
 - *2026.01*: &nbsp;🎉🎉 [New paper published in *ISPRS Journal of Photogrammetry and Remote Sensing* on tree delineation.](#JPRS-2026)
@@ -58,6 +60,10 @@ Please contact Prof. Guochun Shen at [gcshen@des.ecnu.edu.cn](mailto:gcshen@des.
 # 📝 Publications
 
 ## 📄 Journal Articles
+
+<span id='annals-of-botany-2026'></span>
+
+- [Decoupling of above- and below-ground intraspecific trait variation along richness gradients in plants](https://doi.org/10.1093/aob/mcag246), J. Yang, J. Yao, C. Zhang, X. Wang, & **G. Shen**✉️, **Annals of Botany 2026** [[PDF]](pdfs/publications/Yang_2026_Decoupling.pdf)
 
 <span id='new-phytologist-2026'></span>
 
@@ -155,6 +161,9 @@ J. Yang, X.Y. Wang, C. P. Carmona, X.H. Wang, & **G. Shen**✉️. **Nature Comm
 # 🔬 Research Projects
 
 Our research group is actively involved in multiple funded projects addressing key questions in ecology and biodiversity conservation. Current projects include:
+
+**National Natural Science Foundation of China (NSFC) General Program (32672046):**
+*Testing the Context-dependent Mechanisms of Variable Functional Traits on Species Coexistence* (2027.01-2030.12), **Principal Investigator**
 
 **National Key R&D Program of China Special Project (2024YFF1308101):**
 *Mechanisms of feedback between restored vegetation species composition/structure and ecological functions* (2024.12-2027.11), **Principal Investigator**
